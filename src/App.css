@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+
+.contactName {
+  display: block;
+  height: 60px;
+  width: 60px;
+  line-height: 60px;
+
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+
+  background-color: grey;
+  color: black;
+  text-align: center;
+  font-size: 2em;
+  margin-left: 32%;
+}
+
+.btnCard {
+  padding: 0.6em 1em;
+  border-radius: 6px;
+  color: #fff;
+  background-color: #1976d2;
+  font-size: 0.8em;
+  border: 0;
+  cursor: pointer;
+  margin: 1em;
+}
