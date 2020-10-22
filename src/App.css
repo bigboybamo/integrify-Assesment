@@ -2,7 +2,6 @@
   text-align: center;
 }
 
-
 .contactName {
   display: block;
   height: 60px;
@@ -12,7 +11,7 @@
   -moz-border-radius: 50px;
   border-radius: 50px;
 
-  background-color: grey;
+  background-color: rgb(211, 211, 211);
   color: black;
   text-align: center;
   font-size: 2em;
@@ -28,4 +27,9 @@
   border: 0;
   cursor: pointer;
   margin: 1em;
+}
+
+.cardDiv {
+  margin-left: 2%;
+  margin-top: 2%;
 }
