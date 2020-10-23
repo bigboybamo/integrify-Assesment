@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import "./App.css";
 import FetchUser2 from "./components/FetchUser2";
 
-
 class App extends Component {
   state = {
     visible: true,
@@ -12,7 +11,6 @@ class App extends Component {
     return (
       <div className="App">
         <FetchUser2 />
-        
       </div>
     );
   }
